@@ -1,0 +1,25 @@
+{
+  "name": "group-by-params",
+  "version": "1.0.0",
+  "description": "simple grouping function for used by array which execute grouping by params. Parameters can be either object keys or nested paths.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlapshin/group-by-params.git"
+  },
+  "author": "Nikolay Lapshin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlapshin/group-by-params/issues"
+  },
+  "homepage": "https://github.com/nlapshin/group-by-params#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}

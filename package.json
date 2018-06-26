@@ -1,6 +1,6 @@
 {
   "name": "group-by-params",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "simple grouping function for used by array which execute grouping by params. Parameters can be either object keys or nested paths.",
   "main": "index.js",
   "scripts": {
